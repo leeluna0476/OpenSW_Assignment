@@ -27,3 +27,4 @@ Each directory corresponds to a specific assignment or lecture.
 * **`week09_git/`**: Assignments on Git version control (branching, merging).
 * **`week11_syscall/`**: Assignments on System Call File Managements (open, read, write, close).
 * **`week14_syscall/`**: Assignments on System call Process Managements (fork, execve).
+* **`week15_syscall/`**: Assignments on System call Signal Handling (sigaction, sigprocmask).
